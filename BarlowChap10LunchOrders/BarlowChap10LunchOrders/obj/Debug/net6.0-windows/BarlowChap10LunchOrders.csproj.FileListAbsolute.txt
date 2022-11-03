@@ -1,0 +1,17 @@
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\bin\Debug\net6.0-windows\BarlowChap10LunchOrders.exe
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\bin\Debug\net6.0-windows\BarlowChap10LunchOrders.deps.json
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\bin\Debug\net6.0-windows\BarlowChap10LunchOrders.runtimeconfig.json
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\bin\Debug\net6.0-windows\BarlowChap10LunchOrders.dll
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\bin\Debug\net6.0-windows\BarlowChap10LunchOrders.pdb
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.Form1.resources
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.csproj.GenerateResource.cache
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.AssemblyInfo.cs
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.dll
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\refint\BarlowChap10LunchOrders.dll
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.pdb
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\BarlowChap10LunchOrders.genruntimeconfig.cache
+C:\Users\James\source\repos\BarlowChap10LunchOrders\BarlowChap10LunchOrders\obj\Debug\net6.0-windows\ref\BarlowChap10LunchOrders.dll

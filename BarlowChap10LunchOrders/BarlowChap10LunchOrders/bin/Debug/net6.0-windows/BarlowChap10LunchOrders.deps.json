@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BarlowChap10LunchOrders/1.0.0": {
+        "runtime": {
+          "BarlowChap10LunchOrders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarlowChap10LunchOrders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
